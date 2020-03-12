@@ -1,17 +1,20 @@
-# Game Name
+# Seal
 
 ## Elevator Pitch
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
+
 ## Influences (Brief)
 
 - *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: Mythology
+  - Explanation: The enemies that the students will have to defeat will be based off of mythical creatures from greek mythology.
+                 The hero will also be based off of Hercules and have to overcome trials (relevant to his stories)
 - *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: Shadow of the Colossus
+  - Explanation: The idea of finding these creatures and sealing them is reminiscent of the progression in Shadow of the Colossus where 
+                the player goes to each monster and defeats it in order to reach the endgame.
 - *Influence #3*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
@@ -30,10 +33,12 @@
 ## Learning Domains
 
 *Briefly list any and all of the disciplines and learning domains for this subject.*
+Order of operations (PEMDAS)
 
 ## Target Audiences
 
 *Who are your learners?*
+4th Grade Students
 
 ## Target Contexts
 
