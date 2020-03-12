@@ -1,4 +1,4 @@
-# Seal
+# Sealing Mythology Game
 
 ## Elevator Pitch
 
