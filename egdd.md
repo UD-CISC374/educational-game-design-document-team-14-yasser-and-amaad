@@ -146,18 +146,30 @@ During the boss battle, the player must type out their answers instead of choosi
 ## Feedback
 
 *Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
+When the player gets the correct answer during the wall portion of the game, they will gain a flame charge (can have 3 total representing lives) and the illusionary wall will disappear. When the wall disappears,
+there will be an audible, magic-like sound. If the player answers incorrectly, they will lose one flame charge and the phoenix will make a sound. (screech maybe?). During the boss battle, getting a correct
+answer means the player will dodge an attack from the boss and counter with their own attack. If the player gets a problem wrong, they will fail to dodge the attack and lose one fire charge. There will be 
+an audible sound for this as well. 
 
 *Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+As the player advances in the game, they will have to answer questions faster and faster while keeping at least one fire charge. The percentage of questions answered correctly will show them how much 
+they have improved. 
 
 # Story and Gameplay
+You are the phoenix named Toopee who must defend the sacred cave from evil magic monsters. They try to stop him by casting illusions on the cave, however, Toopee is smart and can see through these illusions.
+Once Toopee has reached the monsters, he can attack them directly. By launching counter attacks via answering problems correctly 10 times, they defeat the monster. 
+
+Toopee do be proteking and ataking. Toopee answers a math atak thrown by the monster and casts a shield upon himself. Toopee then unleashes his wrath by poking the monster in its eye!
 
 ## Presentation of Rules
 
 *Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+Dialog boxes will indicate how to move and control the phoenix on the first few attempts of answering questions
 
 ## Presentation of Content
 
 *Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+Basic instructions will be provided to instruct the player on how to make choices/answer the problem. The material will be learned as they play the game and do better by getting farther along
 
 ## Story (Brief)
 
@@ -166,27 +178,26 @@ During the boss battle, the player must type out their answers instead of choosi
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+Storyboard.jpg
+
 
 # Assets Needed
 
 ## Aethestics
 
 *Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+This will take place in a cave with an upbeat atmosphere that changes dynamically based on the flames of the phoenix. They will feel a sense of excitement and respond accordingly as they lose flame charges. 
+
 
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+  - *Phoenix*
+  - *Bosses*
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - *Wall*
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - *Background Cave Image*
 
 
 ## Audio
@@ -202,8 +213,9 @@ During the boss battle, the player must type out their answers instead of choosi
 
 - Sound List (SFX)
   - *Correct Answer*: *some sort of illusion fade away sound*
-  - *Incorrect Answer*: *some sort of wall breaking sound, and losing fire sound*
-  -
+  - *Incorrect Answer*: *some sort of wall breaking sound + losing fire sound*
+  - *Hit by monster*: *some sort of hit sound + losing fire*
+  - *Hit monster*: *some sort of hit sound*
 
 
 # Metadata
