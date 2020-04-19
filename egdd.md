@@ -120,10 +120,6 @@ You are an alchemist using the power of chemistry to fight monsters to collect r
 
 ## Storyboarding
 
-- *Influence #1*:
-  - Medium: Chemistry
-  - Explanation: We both struggled with chemistry so this is our way of learning a little bit
-
 - *Example elements and their uses*:
   - Hydrogen + oxygen2 - combine to make water 
   - Neon + Glass Tube + Electricity = light up dark room
