@@ -20,7 +20,6 @@ You are an alchemist who finds recipes for compounds while traversing a dungeon/
 - *Gameplay Mechanic #3*: collecting recipes
 - *Gameplay Mechanic #4*: switching the compound in use
 
-
 # Learning Aspects
 
 ## Learning Domains
@@ -121,13 +120,17 @@ You are an alchemist using the power of chemistry to fight monsters to collect r
 
 ## Storyboarding
 
-Example elements and their uses:
-Hydrogen + oxygen2 - combine to make water 
-Neon + Glass Tube + Electricity = light up dark room
-Helium = reduces gravity on player if used on self or make enemies lighter/float
-Molybdenum = used on player to provide defense at the expense of being able to move
-Palladium = hydrogen magnet, collects hydrogen from the air
- silver, gold = conduct electricity but most importantly flex with jewelry 
+- *Influence #1*:
+  - Medium: Chemistry
+  - Explanation: We both struggled with chemistry so this is our way of learning a little bit
+
+- *Example elements and their uses*:
+  - Hydrogen + oxygen2 - combine to make water 
+  - Neon + Glass Tube + Electricity = light up dark room
+  - Helium = reduces gravity on player if used on self or make enemies lighter/float
+  - Molybdenum = used on player to provide defense at the expense of being able to move
+  - Palladium = hydrogen magnet, collects hydrogen from the air
+  - Silver/Gold = conduct electricity but most importantly flex with jewelry 
 
 
 ![Storyboard Sketch](Storyboard.jpg)
